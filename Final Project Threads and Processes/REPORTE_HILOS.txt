@@ -1,0 +1,11 @@
+Movimientos de Caja en el Restaurante PoliPapas durante los últimos 3 anios
+Mesero 1, saldo hasta el momento: 402444
+Mesero 2, saldo hasta el momento: 684510
+Mesero 3, saldo hasta el momento: 926038
+Mesero 4, saldo hasta el momento: 1282925
+Mesero 5, saldo hasta el momento: 1750000
+Numero de meseros: 5
+Saldo total: 1751000
+
+Total de transacciones: 500000
+Tiempo de ejecucion: 0.024671 segundos

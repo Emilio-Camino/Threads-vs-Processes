@@ -1,0 +1,11 @@
+Movimientos de Caja en el Restaurante PoliPapas durante los últimos 3 anios
+Cajera 9947, saldo: 398180 
+Cajera 9950, saldo: 932804 
+Cajera 9953, saldo: 1335627 
+Cajera 9955, saldo: 1735998 
+Cajera 9954, saldo: 1751000 
+Total de cajeras: 5
+Saldo final: 1751000
+
+Total de transacciones: 500000
+Tiempo total de ejecucion: 0.074941 segundos
