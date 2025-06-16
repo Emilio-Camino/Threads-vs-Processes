@@ -7,7 +7,7 @@ This is the first semester Operating Systems project for Group 2, parallel GR2SW
 
 #### How to execute
 
-Please run the command `./start.sh` to run the script that will execute both programs at the same time and open both final text files. Run the command `chmod +x start.sh ` before executing the script if there is an execution permission issue. 
+Please run the command `./start.sh` to run the script that will execute both programs at the same time and open both final text files. Run the command `chmod +x start.sh ` before executing the script if there is an execution permission issue. Keep in my that GCC compiler must be installed in order for the code to function properly.
 
 #### Members
 
