@@ -79,7 +79,7 @@ int main() {
     //Every global variable needs a space in memory for it to exist and be accessed by every process (cashier)
     //NULL: the OS decides what is the direction of this memory space
     //sizeof(data type): The OS has to reserve a space corresponding to the size of the variable
-    //PROT_READ | PROT_WRITE: Every process can read an write into this memory space
+    //PROT_READ | PROT_WRITE: Every process can read and write into this memory space
     //MAP_SHARED | MAP_ANONYMOUS: Every process shares this same memory space
     saldo = mmap(NULL, sizeof(int), PROT_READ | PROT_WRITE,
                  MAP_SHARED | MAP_ANONYMOUS, -1, 0);
